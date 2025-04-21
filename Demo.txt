@@ -1,1 +1,2 @@
-Welcome to Git hub actions.some of the git commands had been discussed. add fetch command
+Welcome to Git hub actions.some of the git commands had been discussed. add fetch command. 
+Add new commands in git
